@@ -1,6 +1,6 @@
 {
   "name": "gulp-cssnano",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Minify CSS with cssnano.",
   "main": "index.js",
   "scripts": {
