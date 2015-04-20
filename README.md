@@ -1,6 +1,6 @@
 # [gulp][gulp]-cssnano [![Build Status](https://travis-ci.org/ben-eb/gulp-cssnano.svg?branch=master)][ci] [![NPM version](https://badge.fury.io/js/gulp-cssnano.svg)][npm] [![Dependency Status](https://gemnasium.com/ben-eb/gulp-cssnano.svg)][deps]
 
-> Minify CSS with cssnano.
+> Minify CSS with [cssnano](https://github.com/ben-eb/cssnano).
 
 ## Install
 
